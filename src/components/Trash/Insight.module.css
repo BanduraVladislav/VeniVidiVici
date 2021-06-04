@@ -1,0 +1,17 @@
+.insight {
+		grid-area: c;
+		background-color: white;
+
+	display: grid;
+	width: 100%;
+	max-height: 1280px;
+	margin: 0 auto;
+
+	grid-template-areas: 
+	"ch na"
+	"ch na";
+
+
+	grid-template-rows: 1fr 1200px; 
+	grid-template-columns: 100px 10fr;
+}

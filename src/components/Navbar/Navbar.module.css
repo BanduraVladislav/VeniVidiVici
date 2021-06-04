@@ -1,0 +1,31 @@
+
+.nav{
+	grid-area: n; 
+	background-color: #F9D800;
+}
+
+.btn {
+	color: black;
+	padding: 14px 28px;
+	font-size: 20px;
+	font-weight: bolder;
+	cursor: pointer;
+	width: 200px;
+	height: 60px;
+	background-color: #F9D800;
+	border: none;
+	text-align: left;
+
+}
+
+/*.btn:hover {
+	background-color: #EABF02;
+	color: white;
+	transition: .3s;
+}*/
+
+.btn.active {
+	background-color: #EABF02;
+	color: white;
+}
+

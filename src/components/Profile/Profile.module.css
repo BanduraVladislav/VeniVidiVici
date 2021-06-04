@@ -1,0 +1,6 @@
+.content{
+	grid-area: c;
+	background: #053490;
+	display: flex;
+	justify-content: space-around;
+}

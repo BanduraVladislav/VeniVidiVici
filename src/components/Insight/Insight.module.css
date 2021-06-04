@@ -1,0 +1,22 @@
+.insight {
+	grid-area: c;
+	background-color: white;
+
+	display: grid;
+	width: 100%;
+	max-height: 1280px;
+	margin: 0 auto;
+
+	grid-template-areas: 
+	"ch na"
+	"x na";
+
+
+	grid-template-rows: 300px 500px; 
+	grid-template-columns: 1fr 200px;
+}
+
+.chartGrid {
+	grid-area: ch;
+
+}

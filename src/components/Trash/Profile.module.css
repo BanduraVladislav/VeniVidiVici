@@ -1,0 +1,16 @@
+.content{
+	grid-area: c;
+	background-color: #053490;
+	display: flex;
+	justify-content: space-around;
+
+}
+
+	.content p{
+		color: white;
+		text-align: center;
+	}
+
+	.content img{
+		margin-top: 30px;
+	}

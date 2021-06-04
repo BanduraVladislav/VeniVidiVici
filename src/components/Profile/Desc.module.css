@@ -1,0 +1,52 @@
+.image {
+	position: relative;
+	width: 50%;
+}
+
+
+.image img {
+		margin-top: 30px;
+		border-radius: 50%;
+		border: 4px solid #F9D800;
+		width: 220px;
+		background: #EBEBEA;
+}
+
+
+.image:hover .overlay {
+	opacity: 1;
+}
+
+.overlay{
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	opacity: 0;
+	transition: .5s ease;
+}
+
+.text {
+	position: absolute;
+	top: 50%;
+	left: 100%;
+	transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+}
+
+.text img{
+	width: 240px;
+}
+
+.name {
+		color: white;
+		text-align: center;
+		font-weight: bolder;
+}
+
+.description {
+	text-align: justify;
+	width: 220px;
+	color: white;
+}
