@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/VeniVidiVici/static/css/main.e5433ceb.chunk.css",
-    "main.js": "/VeniVidiVici/static/js/main.0f321cd8.chunk.js",
-    "main.js.map": "/VeniVidiVici/static/js/main.0f321cd8.chunk.js.map",
+    "main.js": "/VeniVidiVici/static/js/main.d7543b08.chunk.js",
+    "main.js.map": "/VeniVidiVici/static/js/main.d7543b08.chunk.js.map",
     "runtime-main.js": "/VeniVidiVici/static/js/runtime-main.088b69de.js",
     "runtime-main.js.map": "/VeniVidiVici/static/js/runtime-main.088b69de.js.map",
     "static/js/2.c1c65d54.chunk.js": "/VeniVidiVici/static/js/2.c1c65d54.chunk.js",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.088b69de.js",
     "static/js/2.c1c65d54.chunk.js",
     "static/css/main.e5433ceb.chunk.css",
-    "static/js/main.0f321cd8.chunk.js"
+    "static/js/main.d7543b08.chunk.js"
   ]
 }
