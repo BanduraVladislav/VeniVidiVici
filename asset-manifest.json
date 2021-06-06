@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/VeniVidiVici/static/css/main.bc90b409.chunk.css",
-    "main.js": "/VeniVidiVici/static/js/main.bb5f4276.chunk.js",
-    "main.js.map": "/VeniVidiVici/static/js/main.bb5f4276.chunk.js.map",
+    "main.css": "/VeniVidiVici/static/css/main.327a774a.chunk.css",
+    "main.js": "/VeniVidiVici/static/js/main.4fae608c.chunk.js",
+    "main.js.map": "/VeniVidiVici/static/js/main.4fae608c.chunk.js.map",
     "runtime-main.js": "/VeniVidiVici/static/js/runtime-main.c57ab76f.js",
     "runtime-main.js.map": "/VeniVidiVici/static/js/runtime-main.c57ab76f.js.map",
     "static/js/2.276432f0.chunk.js": "/VeniVidiVici/static/js/2.276432f0.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.d7fc7483.chunk.js": "/VeniVidiVici/static/js/3.d7fc7483.chunk.js",
     "static/js/3.d7fc7483.chunk.js.map": "/VeniVidiVici/static/js/3.d7fc7483.chunk.js.map",
     "index.html": "/VeniVidiVici/index.html",
-    "static/css/main.bc90b409.chunk.css.map": "/VeniVidiVici/static/css/main.bc90b409.chunk.css.map",
+    "static/css/main.327a774a.chunk.css.map": "/VeniVidiVici/static/css/main.327a774a.chunk.css.map",
     "static/js/2.276432f0.chunk.js.LICENSE.txt": "/VeniVidiVici/static/js/2.276432f0.chunk.js.LICENSE.txt",
     "static/media/Andrey.b21c20ad.png": "/VeniVidiVici/static/media/Andrey.b21c20ad.png",
     "static/media/AndreySec.fc72de2c.png": "/VeniVidiVici/static/media/AndreySec.fc72de2c.png",
@@ -19,6 +19,7 @@
     "static/media/Column.bdb79511.png": "/VeniVidiVici/static/media/Column.bdb79511.png",
     "static/media/Deniel.4e1c9121.png": "/VeniVidiVici/static/media/Deniel.4e1c9121.png",
     "static/media/DenielSec.1e18d5a5.png": "/VeniVidiVici/static/media/DenielSec.1e18d5a5.png",
+    "static/media/Genetic.44a45f93.png": "/VeniVidiVici/static/media/Genetic.44a45f93.png",
     "static/media/Pavlov.dcf799c0.png": "/VeniVidiVici/static/media/Pavlov.dcf799c0.png",
     "static/media/PavlovSec.b381c772.png": "/VeniVidiVici/static/media/PavlovSec.b381c772.png",
     "static/media/Shurik.a127f094.png": "/VeniVidiVici/static/media/Shurik.a127f094.png",
@@ -28,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.c57ab76f.js",
     "static/js/2.276432f0.chunk.js",
-    "static/css/main.bc90b409.chunk.css",
-    "static/js/main.bb5f4276.chunk.js"
+    "static/css/main.327a774a.chunk.css",
+    "static/js/main.4fae608c.chunk.js"
   ]
 }
